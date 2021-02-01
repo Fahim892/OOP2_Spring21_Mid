@@ -11,6 +11,8 @@ namespace ConsoleApp1Lab
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World of c #");
+            Console.WriteLine("Welcome to Github");
         }
+        
     }
 }
