@@ -1,0 +1,7 @@
+E:\oop2\ConsoleAppLab3\ConsoleAppLab3\bin\Debug\ConsoleAppLab3.exe.config
+E:\oop2\ConsoleAppLab3\ConsoleAppLab3\bin\Debug\ConsoleAppLab3.exe
+E:\oop2\ConsoleAppLab3\ConsoleAppLab3\bin\Debug\ConsoleAppLab3.pdb
+E:\oop2\ConsoleAppLab3\ConsoleAppLab3\obj\Debug\ConsoleAppLab3.csprojAssemblyReference.cache
+E:\oop2\ConsoleAppLab3\ConsoleAppLab3\obj\Debug\ConsoleAppLab3.csproj.CoreCompileInputs.cache
+E:\oop2\ConsoleAppLab3\ConsoleAppLab3\obj\Debug\ConsoleAppLab3.exe
+E:\oop2\ConsoleAppLab3\ConsoleAppLab3\obj\Debug\ConsoleAppLab3.pdb
