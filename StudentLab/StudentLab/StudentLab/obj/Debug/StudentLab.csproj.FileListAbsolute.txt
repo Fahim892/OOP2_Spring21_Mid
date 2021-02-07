@@ -1,0 +1,2 @@
+E:\oop2\StudentLab\StudentLab\StudentLab\obj\Debug\StudentLab.csprojAssemblyReference.cache
+E:\oop2\StudentLab\StudentLab\StudentLab\obj\Debug\StudentLab.csproj.CoreCompileInputs.cache
