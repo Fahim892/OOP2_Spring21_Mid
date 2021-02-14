@@ -1,0 +1,7 @@
+E:\oop2\Array1\Array1\obj\Debug\Array1.csprojAssemblyReference.cache
+E:\oop2\Array1\Array1\obj\Debug\Array1.csproj.CoreCompileInputs.cache
+E:\oop2\Array1\Array1\bin\Debug\Array1.exe.config
+E:\oop2\Array1\Array1\bin\Debug\Array1.exe
+E:\oop2\Array1\Array1\bin\Debug\Array1.pdb
+E:\oop2\Array1\Array1\obj\Debug\Array1.exe
+E:\oop2\Array1\Array1\obj\Debug\Array1.pdb
