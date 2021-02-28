@@ -1,0 +1,7 @@
+E:\oop2\AssociationLabTask1\AssociationLabTask1\bin\Debug\AssociationLabTask1.exe.config
+E:\oop2\AssociationLabTask1\AssociationLabTask1\bin\Debug\AssociationLabTask1.exe
+E:\oop2\AssociationLabTask1\AssociationLabTask1\bin\Debug\AssociationLabTask1.pdb
+E:\oop2\AssociationLabTask1\AssociationLabTask1\obj\Debug\AssociationLabTask1.csprojAssemblyReference.cache
+E:\oop2\AssociationLabTask1\AssociationLabTask1\obj\Debug\AssociationLabTask1.csproj.CoreCompileInputs.cache
+E:\oop2\AssociationLabTask1\AssociationLabTask1\obj\Debug\AssociationLabTask1.exe
+E:\oop2\AssociationLabTask1\AssociationLabTask1\obj\Debug\AssociationLabTask1.pdb
