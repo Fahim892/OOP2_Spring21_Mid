@@ -1,0 +1,7 @@
+E:\oop2\FLab1\FLab1\obj\Debug\FLab1.csprojAssemblyReference.cache
+E:\oop2\FLab1\FLab1\obj\Debug\FLab1.csproj.CoreCompileInputs.cache
+E:\oop2\FLab1\FLab1\bin\Debug\FLab1.exe.config
+E:\oop2\FLab1\FLab1\bin\Debug\FLab1.exe
+E:\oop2\FLab1\FLab1\bin\Debug\FLab1.pdb
+E:\oop2\FLab1\FLab1\obj\Debug\FLab1.exe
+E:\oop2\FLab1\FLab1\obj\Debug\FLab1.pdb
